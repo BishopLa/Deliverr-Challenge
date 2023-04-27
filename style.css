@@ -857,20 +857,20 @@ top: 303px; */
   margin: auto;
   height: 169px;
   background: #ff5a1f;
-  padding-top: 3rem
+  padding-top: 3rem;
 }
-.group{
+.group {
   width: 85%;
   margin: auto;
   display: flex;
   justify-content: space-between;
   text-align: center;
 }
-.footy{
+.footy {
   list-style: none;
   display: flex;
   justify-content: space-between;
-    padding-left:4rem;
+  padding-left: 4rem;
   position: relative;
 }
 .footy li {
@@ -880,7 +880,7 @@ top: 303px; */
   font-size: 16px;
   line-height: 24px;
   color: #ffffff;
-  padding-left:3rem;
+  padding-left: 3rem;
   /* padding-top: 2rem; */
   cursor: pointer;
 }
@@ -888,31 +888,30 @@ top: 303px; */
   font-size: 18px;
 }
 
-.footsy{
-box-sizing: border-box;
-width: 100%;
-height: 51px;
-background: #DF2320;
-border: 1px solid #D03801;
+.footsy {
+  box-sizing: border-box;
+  width: 100%;
+  height: 51px;
+  background: #df2320;
+  border: 1px solid #d03801;
 }
-.lastman{
+.lastman {
   margin: auto;
   /* width: 25%; */
   padding-top: 1rem;
   text-align: center;
 }
-.lastman p{
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-word-spacing: 0.3rem;
-color: #FFFFFF;
+.lastman p {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  word-spacing: 0.3rem;
+  color: #ffffff;
 }
 
-
-@media screen and (max-width:1024px) {
+@media screen and (max-width: 1024px) {
   .navy {
     margin-right: 6rem;
   }
@@ -945,7 +944,7 @@ color: #FFFFFF;
   }
   .firstbtn {
     width: 240px;
-    height: 45px;    
+    height: 45px;
     font-size: 12px;
     line-height: 24px;
   }
@@ -1001,7 +1000,7 @@ color: #FFFFFF;
   .spone {
     padding-top: 4rem;
   }
-  
+
   .text2 {
     width: 90%;
     margin-top: -4.7rem;
@@ -1035,7 +1034,6 @@ color: #FFFFFF;
     font-size: 12px;
   }
   .values {
-   
     margin-top: 1.5rem;
   }
   .valve {
@@ -1047,7 +1045,6 @@ color: #FFFFFF;
     justify-content: center;
   }
   .valve h3 {
- 
     font-size: 12px;
     line-height: 27px;
     padding-bottom: 1rem;
@@ -1116,7 +1113,6 @@ color: #FFFFFF;
   }
   .basica p span {
     font-size: 30px;
-  
   }
   .basica p {
     font-size: 9px;
@@ -1151,7 +1147,7 @@ color: #FFFFFF;
   }
   .premium {
     width: 29%;
-    height: 550px; 
+    height: 550px;
   }
 
   .section5 {
@@ -1192,7 +1188,7 @@ color: #FFFFFF;
     padding-top: 3rem;
     padding-bottom: 4rem;
   }
-  
+
   .scroll {
     margin: auto;
     width: 90%;
@@ -1204,7 +1200,7 @@ color: #FFFFFF;
     height: 130px;
     margin-bottom: 2rem;
   }
-  
+
   .lastfaq h3 {
     font-size: 15px;
   }
@@ -1252,15 +1248,15 @@ color: #FFFFFF;
   .footy li {
     font-size: 12px;
   }
-  
+
   .footer {
     margin: auto;
     height: 169px;
     margin-top: -1rem;
     background: #ff5a1f;
-    padding-top: 3rem
+    padding-top: 3rem;
   }
-  .group{
+  .group {
     width: 85%;
     margin: auto;
     display: flex;
@@ -1268,26 +1264,25 @@ color: #FFFFFF;
     text-align: center;
   }
 
-  .footsy{
-  box-sizing: border-box;
-  width: 100%;
-  height: 51px;
-  background: #DF2320;
-  border: 1px solid #D03801;
+  .footsy {
+    box-sizing: border-box;
+    width: 100%;
+    height: 51px;
+    background: #df2320;
+    border: 1px solid #d03801;
   }
-  .lastman{
+  .lastman {
     margin: auto;
     padding-top: 1rem;
     text-align: center;
   }
-  .lastman p{
-  font-size: 10px;
-  word-spacing: 0.2rem;
-}
+  .lastman p {
+    font-size: 10px;
+    word-spacing: 0.2rem;
+  }
 }
 
-
-@media screen and (max-width:768px) {
+@media screen and (max-width: 768px) {
   .navy {
     margin-right: 4rem;
   }
@@ -1316,8 +1311,8 @@ color: #FFFFFF;
   }
   .firstbtn {
     width: 180px;
-    height: 35px;    
-    font-size: 10px;    
+    height: 35px;
+    font-size: 10px;
   }
   .imago {
     /* position: absolute; */
@@ -1357,16 +1352,16 @@ color: #FFFFFF;
     /* /* margin-left: 7rem;
     margin-top: 2rem; */
     /* width: 80%;
-    margin: auto; */ 
+    margin: auto; */
   }
-  .iphone > img{
+  .iphone > img {
     width: 150%;
   }
   .specials {
     /* margin: auto; */
     margin-left: 4rem;
   }
-  .spone > img{
+  .spone > img {
     width: 20%;
   }
   .specials1 {
@@ -1376,7 +1371,7 @@ color: #FFFFFF;
   .spone {
     padding-top: 2rem;
   }
-  
+
   .text2 {
     width: 75%;
     margin-top: -3rem;
@@ -1404,14 +1399,13 @@ color: #FFFFFF;
     font-size: 15px;
     line-height: 39px;
     color: #f9fafb;
-    padding-bottom: .5rem;
+    padding-bottom: 0.5rem;
   }
   .work p {
     font-size: 9px;
   }
   .values {
     margin-top: 2rem;
-
   }
   .valve {
     margin: auto;
@@ -1422,10 +1416,9 @@ color: #FFFFFF;
     justify-content: center;
   }
   .valve h3 {
- 
     font-size: 10px;
     line-height: 27px;
-    padding-bottom: .5rem;
+    padding-bottom: 0.5rem;
     margin-right: -4.5rem;
   }
   .valve p {
@@ -1433,7 +1426,7 @@ color: #FFFFFF;
     line-height: 19px;
     width: 90%;
     margin: auto;
-    margin-right:-2rem;
+    margin-right: -2rem;
   }
   .straight {
     width: 60%;
@@ -1448,10 +1441,10 @@ color: #FFFFFF;
     text-align: center;
     margin-top: 11.63rem;
   }
-  .asian > img{
+  .asian > img {
     width: 30%;
   }
- .section4 {
+  .section4 {
     /* margin: auto; */
     width: 100%;
     margin-top: 4rem;
@@ -1488,8 +1481,8 @@ color: #FFFFFF;
     margin-top: 6rem;
   }
   .basica {
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
     margin-left: 2rem;
   }
   .basica h1 {
@@ -1497,7 +1490,6 @@ color: #FFFFFF;
   }
   .basica p span {
     font-size: 25px;
-  
   }
   .basica p {
     font-size: 7px;
@@ -1507,7 +1499,7 @@ color: #FFFFFF;
   .marked {
     text-align: left;
     margin: auto;
-    padding-bottom: .5rem;
+    padding-bottom: 0.5rem;
   }
   .marked h3 {
     font-size: 8px;
@@ -1532,7 +1524,7 @@ color: #FFFFFF;
   }
   .premium {
     width: 30%;
-    height: 470px; 
+    height: 470px;
     margin-top: -1rem;
   }
 
@@ -1545,10 +1537,9 @@ color: #FFFFFF;
     display: flex;
     justify-content: space-evenly;
   }
-  .ship1{
+  .ship1 {
     width: 370.9px;
     height: 200px;
-  
   }
   .ship2 {
     width: 370.9px;
@@ -1556,7 +1547,7 @@ color: #FFFFFF;
     margin-right: 1rem;
     margin-left: 1rem;
   }
-  .ship3{
+  .ship3 {
     width: 370.9px;
     height: 200px;
   }
@@ -1583,10 +1574,10 @@ color: #FFFFFF;
     padding-top: 3rem;
     padding-bottom: 4rem;
   }
-  .textfaq{
+  .textfaq {
     font-size: 12px;
   }
-  
+
   .scroll {
     margin: auto;
     width: 90%;
@@ -1598,7 +1589,7 @@ color: #FFFFFF;
     height: 130px;
     margin-bottom: 2rem;
   }
-  summary{
+  summary {
     font-size: 12px;
   }
   details[open] summary {
@@ -1633,7 +1624,7 @@ color: #FFFFFF;
   .crown {
     width: 30%;
   }
-  .crown p{
+  .crown p {
     font-size: 7px;
   }
   .foru {
@@ -1650,7 +1641,7 @@ color: #FFFFFF;
     height: 40px;
     margin-bottom: 2rem;
     font-size: 12px;
-    margin-top: .5rem;
+    margin-top: 0.5rem;
   }
   .fill label {
     font-size: 12px;
@@ -1665,20 +1656,20 @@ color: #FFFFFF;
   .combox label {
     font-size: 12px;
   }
-  
+
   .fill {
     margin: auto;
     padding-top: 2rem;
   }
 
-  .group{
+  .group {
     width: 90%;
   }
   .footy li {
     font-size: 8px;
   }
-  
-  .whitelogo > img{
+
+  .whitelogo > img {
     width: 60%;
   }
   .footer {
@@ -1688,26 +1679,22 @@ color: #FFFFFF;
     width: 100%;
   }
 
-  .footsy{
-  box-sizing: border-box;
-  width: 100%;
-  background: #DF2320;
-  border: 1px solid #D03801;
+  .footsy {
+    box-sizing: border-box;
+    width: 100%;
+    background: #df2320;
+    border: 1px solid #d03801;
   }
-  .lastman{
+  .lastman {
     margin: auto;
     padding-top: 1rem;
     text-align: center;
   }
-  .lastman p{
-  font-size: 9px;
-  word-spacing: 0.2rem;
+  .lastman p {
+    font-size: 9px;
+    word-spacing: 0.2rem;
+  }
 }
 
-}
-
-
-
-@media screen and (max-width:480px) {
-  
+@media screen and (max-width: 480px) {
 }
