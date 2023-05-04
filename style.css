@@ -106,8 +106,8 @@ header {
 }
 .imago > img {
   width: 90%;
-  padding-top: 8rem;
-  margin-left: -6rem;
+  padding-top: 12.7rem;
+  margin-left: -5rem;
 }
 .services {
   background: #f9f9f9;
@@ -214,12 +214,14 @@ header {
   position: relative;
 }
 .valve {
-  width: 21%;
+  width: 20%;
   justify-content: center;
+  text-align: center;
   /* text-align: center; */
   /* padding-right: 3rem;
   padding-bottom: -1rem; */
 }
+
 .valve h3 {
   font-family: "Inter";
   font-style: normal;
@@ -239,6 +241,8 @@ header {
   text-align: center;
   letter-spacing: 0.2px;
   color: #feecdc;
+  width: 80%;
+  margin: auto;
 }
 .straight {
   width: 60%;
@@ -251,7 +255,7 @@ header {
 .asian {
   margin: auto;
   text-align: center;
-  margin-top: 10.6rem;
+  margin-top: 10.2rem;
 }
 .section4 {
   /* margin: auto; */
@@ -972,7 +976,7 @@ top: 303px; */
     padding-top: 4rem;
   }
   .text1 {
-    width: 40%;
+    width: 35%;
   }
   .text1 h2 {
     font-size: 25px;
@@ -1038,7 +1042,7 @@ top: 303px; */
   }
   .valve {
     margin: auto;
-    width: 22%;
+    width: 25%;
     text-align: center;
     padding-right: 2rem;
     padding-bottom: -1rem;
@@ -1048,10 +1052,12 @@ top: 303px; */
     font-size: 12px;
     line-height: 27px;
     padding-bottom: 1rem;
+    padding-top: -2rem;
   }
   .valve p {
     font-size: 10px;
     line-height: 19px;
+    width: 80%;
   }
   .straight {
     width: 60%;
@@ -1338,7 +1344,7 @@ top: 303px; */
     padding-top: 2rem;
   }
   .text1 {
-    width: 40%;
+    width: 30%;
   }
   .text1 h2 {
     font-size: 18px;
@@ -1373,7 +1379,7 @@ top: 303px; */
   }
 
   .text2 {
-    width: 75%;
+    width: 80%;
     margin-top: -3rem;
     padding-left: 3rem;
     padding-bottom: 3rem;
